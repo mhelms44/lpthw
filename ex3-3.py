@@ -1,0 +1,6 @@
+print("How much more do I have left on my student loans?")
+print("I have roughly 22,000.00 left")
+print("I have roughly 3,000 to pay off now")
+print(22000 - 3000)
+print("So if we take that amount we should be able to now route it down even quicker")
+print("With this amount, plus 6 months of additional 500 dollar payments we get", 22000 - 3000 - (500 * 6) )
