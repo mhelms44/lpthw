@@ -1,8 +1,8 @@
-def bhp_and_whp (breaking_horsepower, wheel_horsepower):
+def bhp_and_whp (break_horsepower, wheel_horsepower):
     print ("Your car stats are:")
-    print(f"Breaking Horsepower: {breaking_horsepower}")
+    print(f"Breaking Horsepower: {break_horsepower}")
     print(f"Wheel Horsepower: {wheel_horsepower}")
-    if breaking_horsepower == wheel_horsepower:
+    if break_horsepower == wheel_horsepower:
         print("Your stats are well balanced")
 
 bhp_and_whp (250, 300)

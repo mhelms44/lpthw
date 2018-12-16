@@ -10,6 +10,7 @@ input("?")
 
 print("Opening the file...")
 #loads the file into a buffer and the 'w' opens it for writing, creates the file if it doesnt exist and truncates it. 
+# We could leave out the 'w' option if we wanted to but since we plan to empty the file and overwrite it anyway, 'w' gives us some sanity there. 
 target = open(filename, 'w')
 #print("Truncating the file. Goodbye!")
 #empties the file
