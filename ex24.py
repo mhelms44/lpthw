@@ -1,4 +1,4 @@
-# prints out a string
+list# prints out a string
 print("Let's practice everything.")
 # prints string with an escape character for the ' marks and the \
 print('You\'d need to know \'bout escapes with \\ that do:')
