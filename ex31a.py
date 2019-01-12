@@ -71,7 +71,7 @@ elif spot == "3":
         print("""You hazard getting on the dock anyway. It holds your weight somehow and you begin to cast your line.
         You manage to get lucky and a very large fish bites your hook. Unfortunately you lose your balance and fall into the water.
         Normally this wouldn't be a problem, but your injury to your ankle has rendered you useless in the water.
-        You drown in 10 feet of water, feet from the shore.""")
+        You drown in 10 feet of water, only a few yards from the shore.""")
 
     elif dock_choice == "2":
         print("""You play it safe and fish from the shore instead.
