@@ -1,0 +1,20 @@
+#backlash
+\\
+#single quote
+\'
+#double quote
+\"
+#bell
+\a
+#backspace
+\b 
+#formfeed
+\f
+#newline
+\n 
+#carriage
+\r 
+#tab
+\t 
+#virtical tab
+\v
