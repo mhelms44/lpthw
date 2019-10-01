@@ -9,8 +9,7 @@ def get_cards():
         if not card_name:
             collection.pop(-1)
             break
-    print (collection)
-    
+    print (collection)   
     display_cards(collection)
 
 def display_cards(collection):
